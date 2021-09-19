@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "key": "Sofas"
+    },
+    {
+        "id": 2,
+        "key": "Armchairs"
+    },
+    {
+        "id": 3,
+        "key": "Shelves"
+    },
+    {
+        "id": 4,
+        "key": "CoffeeTable"
+    }
+]

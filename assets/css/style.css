@@ -1,0 +1,46 @@
+@font-face{
+    src:url(../fonts/Orbitron-VariableFont_wght.ttf);
+    font-family: "my-font";
+}
+
+#logo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color:#1b1612;
+    font-family: "my-font";
+}
+#logo h1{
+    font-size: 60px;
+    text-transform: uppercase;
+}
+#logo p{
+    font-size: 25px;
+}
+.img-background img{
+    width: 100%;
+    height: 750px;
+}
+.container-fluid{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.label-style{
+    font-size: 20px;
+    font-family: "my-font";
+    font-weight: 550;
+    color: #1b1612;
+}
+.form-control{
+    color: #1b1612;
+    font-size: 18px;
+    font-family: "my-font";
+    
+    
+}
+.row{
+    margin-right: -80px !important;
+    margin-left: -80px !important;  
+}
+
