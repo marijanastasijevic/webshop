@@ -1,0 +1,215 @@
+[
+    [
+        {
+            "id": 1,
+            "key": "bleck sofa Klara",
+            "image": {
+                "src": "assets/images/sofa/bleck_sofa.jpg",
+                "alt": "sofa_Klara"
+            },
+            "color": "bleck",
+            "cena": 50.000,
+            "livingroomID": 1
+        },
+        {
+            "id": 2,
+            "key": "Hemes",
+            "image": {
+                "src": "assets/images/sofa/bleck_sofa2.jpg",
+                "alt": "sofa_Hemes"
+            },
+            "color": "bleck",
+            "cena": 62000,
+            "livingroomID": 1
+        },
+        {
+            "id": 3,
+            "key": "Brimnes",
+            "image": {
+                "src": "assets/images/sofa/blue_sofa.jpg",
+                "alt": "sofa_Brimnes"
+            },
+            "color": "blue",
+            "cena": 60000,
+            "livingroomID": 1
+        },
+        {
+            "id": 4,
+            "key": "Askeby",
+            "image": {
+                "src": "assets/images/sofa/brown_sofa.jpg",
+                "alt": "sofa_Askeby"
+            },
+            "color": "brown",
+            "cena": 62000,
+            "livingroomID": 1
+        },
+        {
+            "id": 5,
+            "key": "Grunarp",
+            "image": {
+                "src": "assets/images/sofa/brown_sofa2.jpg",
+                "alt": "sofa_Grunarp"
+            },
+            "color": "brown",
+            "cena": 70000,
+            "livingroomID": 1
+        },
+        {
+            "id": 6,
+            "key": "Flotebo",
+            "image": {
+                "src": "assets/images/sofa/brown_sofa3.jpg",
+                "alt": "sofa_Grunarp"
+            },
+            "color": "brown",
+            "cena": 72000,
+            "livingroomID": 1
+        },
+        {
+            "id": 7,
+            "key": "Valentina",
+            "image": {
+                "src": "assets/images/sofa/green_sofa.jpg",
+                "alt": "sofa_Valentina"
+            },
+            "color": "green",
+            "cena": 58000,
+            "livingroomID": 1
+        },
+        {
+            "id": 8,
+            "key": "Hamarn",
+            "image": {
+                "src": "assets/images/sofa/grey_sofa.jpg",
+                "alt": "sofa_Valentina"
+            },
+            "color": "grey",
+            "cena": 90000,
+            "livingroomID": 1
+        },
+        {
+            "id": 9,
+            "key": "Vimle",
+            "image": {
+                "src": "assets/images/sofa/grey_sofa2.jpg",
+                "alt": "sofa_Vimle"
+            },
+            "color": "grey",
+            "cena": 81000,
+            "livingroomID": 1
+        },
+        {
+            "id": 10,
+            "key": "Bella",
+            "image": {
+                "src": "assets/images/sofa/white_sofa.jpg",
+                "alt": "sofa_Bella"
+            },
+            "color": "white",
+            "cena": 90000,
+            "livingroomID": 1
+        },
+        {
+            "id": 11,
+            "key": "Bella2",
+            "image": {
+                "src": "assets/images/sofa/white_sofa2.jpg",
+                "alt": "sofa_Bella2"
+            },
+            "color": "white",
+            "cena": 91000,
+            "livingroomID": 1
+        },
+        {
+            "id": 12,
+            "key": "Roberto",
+            "image": {
+                "src": "assets/images/sofa/yellow_sofa.jpg",
+                "alt": "sofa_Roberto"
+            },
+            "color": "yellow",
+            "cena": 85000,
+            "livingroomID": 1
+        }
+    ],
+    [
+        {
+            "id": 1,
+            "key": "Armchair 111",
+            "image": {
+                "src": "assets/images/armchair/armchairBlack.jpg",
+                "alt": "armchair_Black"
+            },
+            "color": "black",
+            "cena": 12000,
+            "livingroomID": 2
+        },
+        {
+            "id": 2,
+            "key": "Armchair 112",
+            "image": {
+                "src": "assets/images/armchair/armchairBlack2.jpg",
+                "alt": "armchair_Black112"
+            },
+            "color": "black",
+            "cena": 16000,
+            "livingroomID": 2
+        },
+        {
+            "id": 3,
+            "key": "Armchair 113",
+            "image": {
+                "src": "assets/images/armchair/armchairBlie.jpg",
+                "alt": "armchair_Blue"
+            },
+            "color": "blue",
+            "cena": 15000,
+            "livingroomID": 2
+        },
+        {
+            "id": 4,
+            "key": "Armchair 114",
+            "image": {
+                "src": "assets/images/armchair/armchairREd.jpg",
+                "alt": "armchair_Red"
+            },
+            "color": "red",
+            "cena": 14000,
+            "livingroomID": 2
+        },
+        {
+            "id": 5,
+            "key": "Armchair 115",
+            "image": {
+                "src": "assets/images/armchair/armchairWhite2.jpg",
+                "alt": "armchair_White"
+            },
+            "color": "white",
+            "cena": 15500,
+            "livingroomID": 2
+        },
+        {
+            "id": 6,
+            "key": "Armchair 116",
+            "image": {
+                "src": "assets/images/armchair/armchairYellow.jpg",
+                "alt": "armchair_Yellow"
+            },
+            "color": "yellow",
+            "cena": 16500,
+            "livingroomID": 2
+        },
+        {
+            "id": 7,
+            "key": "Armchair 117",
+            "image": {
+                "src": "assets/images/armchair/armchairYellow2.jpg",
+                "alt": "armchair_Yellow117"
+            },
+            "color": "yellow",
+            "cena": 13500,
+            "livingroomID": 2
+        }
+    ]
+]
