@@ -7,7 +7,7 @@
             "alt": "sofa_Klara"
         },
         "color": "bleck",
-        "price": "450 EUR",
+        "price": 450,
         "roomID": 1,
         "typeID": 1
     },
@@ -19,7 +19,7 @@
             "alt": "sofa_Hemes"
         },
         "color": "bleck",
-        "price": "520 EUR",
+        "price": 520,
         "roomID": 1,
         "typeID": 1
     },
@@ -31,7 +31,7 @@
             "alt": "sofa_Brimnes"
         },
         "color": "blue",
-        "price": "500 EUR",
+        "price": 500,
         "roomID": 1,
         "typeID": 1
     },
@@ -43,7 +43,7 @@
             "alt": "sofa_Askeby"
         },
         "color": "brown",
-        "price": "530 EUR",
+        "price": 530,
         "roomID": 1,
         "typeID": 1
     },
@@ -55,7 +55,7 @@
             "alt": "sofa_Grunarp"
         },
         "color": "brown",
-        "price": "600 EUR",
+        "price": 600,
         "roomID": 1,
         "typeID": 1
     },
@@ -67,7 +67,7 @@
             "alt": "sofa_Grunarp"
         },
         "color": "brown",
-        "price": "620 EUR",
+        "price": 620,
         "roomID": 1,
         "typeID": 1
     },
@@ -79,7 +79,7 @@
             "alt": "sofa_Valentina"
         },
         "color": "green",
-        "price": "590 EUR",
+        "price": 590,
         "roomID": 1,
         "typeID": 1
     },
@@ -91,7 +91,7 @@
             "alt": "sofa_Valentina"
         },
         "color": "grey",
-        "price": "800 EUR",
+        "price": 800,
         "roomID": 1,
         "typeID": 1
     },
@@ -103,7 +103,7 @@
             "alt": "sofa_Vimle"
         },
         "color": "grey",
-        "price": "760 EUR",
+        "price": 760,
         "roomID": 1,
         "typeID": 1
     },
@@ -115,7 +115,7 @@
             "alt": "sofa_Bella"
         },
         "color": "white",
-        "price": "850 EUR",
+        "price": 850,
         "roomID": 1,
         "typeID": 1
     },
@@ -127,7 +127,7 @@
             "alt": "sofa_Bella2"
         },
         "color": "white",
-        "price": "820 EUR",
+        "price": 820,
         "roomID": 1,
         "typeID": 1
     },
@@ -139,7 +139,7 @@
             "alt": "sofa_Roberto"
         },
         "color": "yellow",
-        "price": "740 EUR",
+        "price": 740,
         "roomID": 1,
         "typeID": 1
     },
@@ -151,7 +151,7 @@
             "alt": "armchair_Black"
         },
         "color": "black",
-        "price": "150 EUR",
+        "price": 150,
         "roomID": 1,
         "typeID": 2
     },
@@ -163,7 +163,7 @@
             "alt": "armchair_Black112"
         },
         "color": "black",
-        "price": "170 EUR",
+        "price": 170,
         "roomID": 1,
         "typeID": 2
     },
@@ -175,7 +175,7 @@
             "alt": "armchair_Blue"
         },
         "color": "blue",
-        "price": "200 EUR",
+        "price": 200,
         "roomID": 1,
         "typeID": 2
     },
@@ -187,7 +187,7 @@
             "alt": "armchair_Red"
         },
         "color": "red",
-        "price": "175 EUR",
+        "price": 175,
         "roomID": 1,
         "typeID": 2
     },
@@ -199,7 +199,7 @@
             "alt": "armchair_White"
         },
         "color": "white",
-        "price": "210 EUR",
+        "price": 210,
         "roomID": 1,
         "typeID": 2
     },
@@ -211,7 +211,7 @@
             "alt": "armchair_Yellow"
         },
         "color": "yellow",
-        "price": "220",
+        "price": 220,
         "roomID": 1,
         "typeID": 2
     },
@@ -223,7 +223,7 @@
             "alt": "armchair_Yellow117"
         },
         "color": "yellow",
-        "price": "165 EUR",
+        "price": 165,
         "roomID": 1,
         "typeID": 2
     },
@@ -235,7 +235,7 @@
             "alt": "coffe_table_industrial"
         },
         "color": "brown",
-        "price": "120 EUR",
+        "price": 120,
         "roomID": 1,
         "typeID": 3
     },
@@ -243,11 +243,11 @@
         "id": 21,
         "name": "Marcio",
         "image": {
-            "src": "assets/images/coffe_table/ct_marcio.jpg",
+            "src": "assets/images/coffee_table/ct_marcio.jpg",
             "alt": "coffe_table_marcio"
         },
         "color": "brown",
-        "price": "135 EUR",
+        "price": 135,
         "roomID": 1,
         "typeID": 3
     },
@@ -255,11 +255,11 @@
         "id": 22,
         "name": "mini brown",
         "image": {
-            "src": "assets/images/coffe_table/ct_miniBrown.jpg",
+            "src": "assets/images/coffee_table/ct_miniBrown.jpg",
             "alt": "coffe_table_miniBrown"
         },
         "color": "brown",
-        "price": "90 EUR",
+        "price": 90,
         "roomID": 1,
         "typeID": 3
     },
@@ -267,11 +267,11 @@
         "id": 23,
         "name": "Roosted",
         "image": {
-            "src": "assets/images/coffe_table/ct_roosted.jpg",
+            "src": "assets/images/coffee_table/ct_roosted.jpg",
             "alt": "coffe_table_roosted"
         },
         "color": "brown",
-        "price": "140 EUR",
+        "price": 140,
         "roomID": 1,
         "typeID": 3
     },
@@ -279,11 +279,11 @@
         "id": 24,
         "name": "Sofia",
         "image": {
-            "src": "assets/images/coffe_table/ct_sofia.jpg",
+            "src": "assets/images/coffee_table/ct_sofia.jpg",
             "alt": "coffe_table_sofia"
         },
         "color": "brown",
-        "price": "110 EUR",
+        "price": 110,
         "roomID": 1,
         "typeID": 3
     },
@@ -295,7 +295,7 @@
             "alt": "bed_bege"
         },
         "color": "bege",
-        "price": 52000,
+        "price": 500,
         "roomID": 2,
         "typeID": 4
     },
@@ -307,7 +307,7 @@
             "alt": "bed_white"
         },
         "color": "white",
-        "price": "550 EUR",
+        "price": 550,
         "roomID": 2,
         "typeID": 4
     },
@@ -319,7 +319,7 @@
             "alt": "bed_brown"
         },
         "color": "brown",
-        "price": "620 EUR",
+        "price": 620,
         "roomID": 2,
         "typeID": 4
     },
@@ -331,7 +331,7 @@
             "alt": "bed_bege2"
         },
         "color": "bege",
-        "price": "520 EUR",
+        "price": 520,
         "roomID": 2,
         "typeID": 4
     },
@@ -343,7 +343,7 @@
             "alt": "bed_bege"
         },
         "color": "grey",
-        "price": "645 EUR",
+        "price": 645,
         "roomID": 2,
         "typeID": 4
     },
@@ -351,11 +351,11 @@
         "id": 30,
         "name": "Bedside_Table_Bege",
         "image": {
-            "src": "assets/images/beds/bedsideTableBege.jpg",
+            "src": "assets/images/bedside_tables/bedsideTableBege.jpg",
             "alt": "bedside_table_bege"
         },
         "color": "bege",
-        "price": "50 EUR",
+        "price": 50,
         "roomID": 2,
         "typeID": 5
     },
@@ -363,11 +363,11 @@
         "id": 31,
         "name": "Bedside_Table_Black",
         "image": {
-            "src": "assets/images/beds/bedsideTableBlack.jpg",
+            "src": "assets/images/bedside_tables/bedsideTableBlack.jpg",
             "alt": "bedside_table_black"
         },
         "color": "black",
-        "price": "60 EUR",
+        "price": 60,
         "roomID": 2,
         "typeID": 5
     },
@@ -375,11 +375,11 @@
         "id": 32,
         "name": "Bedside_Table_Brown",
         "image": {
-            "src": "assets/images/beds/bedsideTableBrown.jpg",
+            "src": "assets/images/bedside_tables/bedsideTableBrown.jpg",
             "alt": "bedside_table_brown"
         },
         "color": "brown",
-        "price": "70 EUR",
+        "price": 70,
         "roomID": 2,
         "typeID": 5
     },
@@ -387,11 +387,11 @@
         "id": 33,
         "name": "Bedside_Table_white",
         "image": {
-            "src": "assets/images/beds/bedsideTableWhite.jpg",
+            "src": "assets/images/bedside_tables/bedsideTableWhite.jpg",
             "alt": "bedside_table_white"
         },
         "color": "white",
-        "price": "75 EUR",
+        "price": 75,
         "roomID": 2,
         "typeID": 5
     },
@@ -399,11 +399,11 @@
         "id": 34,
         "name": "Bedside_Table_Bege2",
         "image": {
-            "src": "assets/images/beds/bedsideTableBege2.jpg",
+            "src": "assets/images/bedside_tables/bedsideTableBege2.jpg",
             "alt": "bedside_table_bege2"
         },
         "color": "bege",
-        "price": "40 EUR",
+        "price": 40,
         "roomID": 2,
         "typeID": 5
     },
@@ -415,7 +415,7 @@
             "alt": "wardrobe_brown"
         },
         "color": "brown",
-        "price": "650 EUR",
+        "price": 650,
         "roomID": 2,
         "typeID": 6
     },
@@ -427,7 +427,7 @@
             "alt": "wardrobe_white"
         },
         "color": "white",
-        "price": "450 EUR",
+        "price": 450,
         "roomID": 2,
         "typeID": 6
     },
@@ -439,7 +439,7 @@
             "alt": "wardrobe_white02"
         },
         "color": "white",
-        "price": "480 EUR",
+        "price": 480,
         "roomID": 2,
         "typeID": 6
     },
@@ -451,7 +451,7 @@
             "alt": "commoda01"
         },
         "color": "white",
-        "price": "150 EUR",
+        "price": 150,
         "roomID": 2,
         "typeID": 7
     },
@@ -463,7 +463,7 @@
             "alt": "commoda0w"
         },
         "color": "brown",
-        "price": "170 EUR",
+        "price": 170,
         "roomID": 2,
         "typeID": 7
     },
@@ -475,7 +475,7 @@
             "alt": "commoda03"
         },
         "color": "bege",
-        "price": "175 EUR",
+        "price": 175,
         "roomID": 2,
         "typeID": 7
     },
@@ -487,7 +487,7 @@
             "alt": "commoda04"
         },
         "color": "bege",
-        "price": "180 EUR",
+        "price": 180,
         "roomID": 2,
         "typeID": 7
     },
@@ -499,7 +499,7 @@
             "alt": "commoda05"
         },
         "color": "bege",
-        "price": "185 EUR",
+        "price": 185,
         "roomID": 2,
         "typeID": 7
     },
@@ -511,7 +511,7 @@
             "alt": "commoda06"
         },
         "color": "white",
-        "price": "160 EUR",
+        "price": 160,
         "roomID": 2,
         "typeID": 7
     },
@@ -523,7 +523,7 @@
             "alt": "dining_table_bege"
         },
         "color": "bege",
-        "price": "200 EUR",
+        "price": 200,
         "roomID": 3,
         "typeID": 8
     },
@@ -535,7 +535,7 @@
             "alt": "dining_table_white"
         },
         "color": "white",
-        "price": "230 EUR",
+        "price": 230,
         "roomID": 3,
         "typeID": 8
     },
@@ -547,7 +547,7 @@
             "alt": "dining_table_brown"
         },
         "color": "brown",
-        "price": "300 EUR",
+        "price": 300,
         "roomID": 3,
         "typeID": 8
     },
@@ -559,7 +559,7 @@
             "alt": "dining_table_black"
         },
         "color": "black",
-        "price": "320 EUR",
+        "price": 320,
         "roomID": 3,
         "typeID": 8
     },
@@ -571,7 +571,7 @@
             "alt": "dining_table_brown02"
         },
         "color": "brown",
-        "price": "240 EUR",
+        "price": 240,
         "roomID": 3,
         "typeID": 8
     },
@@ -583,7 +583,7 @@
             "alt": "bege_chair"
         },
         "color": "bege",
-        "price": "55 EUR",
+        "price": 55,
         "roomID": 3,
         "typeID": 9
     },
@@ -595,7 +595,7 @@
             "alt": "blue_chair"
         },
         "color": "blue",
-        "price": "60 EUR",
+        "price": 60,
         "roomID": 3,
         "typeID": 9
     },
@@ -607,7 +607,7 @@
             "alt": "brown_chair"
         },
         "color": "brown",
-        "price": "65 EUR",
+        "price": 65,
         "roomID": 3,
         "typeID": 9
     },
@@ -619,7 +619,7 @@
             "alt": "bege_chair"
         },
         "color": "green",
-        "price": "80 EUR",
+        "price": 80,
         "roomID": 3,
         "typeID": 9
     },
@@ -631,7 +631,7 @@
             "alt": "white_chair"
         },
         "color": "white",
-        "price": "82 EUR",
+        "price": 82,
         "roomID": 3,
         "typeID": 9
     },
@@ -643,7 +643,7 @@
             "alt": "brown_kitchen"
         },
         "color": "brown",
-        "price": "1700 EUR",
+        "price": 1700,
         "roomID": 4,
         "typeID": 10
     },
@@ -655,7 +655,7 @@
             "alt": "grey_kitchen"
         },
         "color": "grey",
-        "price": "1400 EUR",
+        "price": 1400,
         "roomID": 4,
         "typeID": 10
     },
@@ -667,7 +667,7 @@
             "alt": "brown_white01"
         },
         "color": "white",
-        "price": "1500 EUR",
+        "price": 1500,
         "roomID": 4,
         "typeID": 10
     },
@@ -679,7 +679,7 @@
             "alt": "white2_kitchen"
         },
         "color": "white",
-        "price": "2000 EUR",
+        "price": 2000,
         "roomID": 4,
         "typeID": 10
     },
@@ -687,11 +687,11 @@
         "id": 58,
         "name": "children_Bed_Gray",
         "image": {
-            "src": "assets/images/children's_roomID/childrenBedGrey.jpg",
+            "src": "assets/images/children's_room/childrenBedGrey.jpg",
             "alt": "grey children bed"
         },
         "color": "grey",
-        "price": "210 EUR",
+        "price": 210,
         "roomID": 5,
         "typeID": 11
     },
@@ -699,11 +699,11 @@
         "id": 59,
         "name": "children_Table_235",
         "image": {
-            "src": "assets/images/children's_roomID/childrenTable235.jpg",
+            "src": "assets/images/children's_room/childrenTable235.jpg",
             "alt": "children table"
         },
         "color": "white",
-        "price": "100 EUR",
+        "price": 100,
         "roomID": 5,
         "typeID": 11
     },
@@ -711,11 +711,11 @@
         "id": 60,
         "name": "children_Table_568",
         "image": {
-            "src": "assets/images/children's_roomID/ChildrenTable.jpg",
+            "src": "assets/images/children's_room/ChildrenTable.jpg",
             "alt": "children's desk"
         },
         "color": "bege",
-        "price": "150 EUR",
+        "price": 150,
         "roomID": 5,
         "typeID": 11
     },
@@ -723,11 +723,11 @@
         "id": 61,
         "name": "children_shelves_Katja",
         "image": {
-            "src": "assets/images/children's_roomID/katja.jpg",
+            "src": "assets/images/children's_room/Katja.jpg",
             "alt": "white children's shelf"
         },
         "color": "white",
-        "price": "80 EUR",
+        "price": 80,
         "roomID": 5,
         "typeID": 11
     },
@@ -735,11 +735,11 @@
         "id": 62,
         "name": "children_Bed_Nicolas",
         "image": {
-            "src": "assets/images/children's_roomID/Nicolas.jpg",
+            "src": "assets/images/children's_room/Nicolas.jpg",
             "alt": "white children bed"
         },
         "color": "white",
-        "price": "230 EUR",
+        "price": 230,
         "roomID": 5,
         "typeID": 11
     },
@@ -747,11 +747,11 @@
         "id": 63,
         "name": "children_Bed_Victoria",
         "image": {
-            "src": "assets/images/children's_roomID/Victoria.jpg",
+            "src": "assets/images/children's_room/Victoria.jpg",
             "alt": "white children bed victoria"
         },
         "color": "white",
-        "price": "175 EUR",
+        "price": 175,
         "roomID": 5,
         "typeID": 11
     }

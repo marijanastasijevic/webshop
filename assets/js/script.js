@@ -10,7 +10,7 @@ $(document).ready(function () {
     ajaxCallback("type.json", function (result) {
         let arrayType = result;
         setDataLS("typeLS", arrayType);
-        createList(arrayType, "Type furniture", "ddlType", "#ddlTypeBlock")
+        createList(arrayType, "Furniture type", "ddlType", "#ddlTypeBlock")
     });
 
     ajaxCallback("products.json", function (result) {
@@ -21,6 +21,8 @@ $(document).ready(function () {
 
     $(document).on('change', '#ddlRooms', filtSort);
     $(document).on('change', '#ddlType', filtSort);
+    $(document).on('change', '#ddlSort', filtSort);
+
 
 
 })
@@ -67,21 +69,24 @@ function printProducts(products) {
     let printHtml = "";
 
     if (products.length == 0) {
-        printHtml += `<div class = "col-12><p>Trenutno nema proizvoda</p></div>"`
+        printHtml += `<div class = "col-12"><p>Trenutno nema proizvoda</p></div>`
     }
     else {
         for (let objProduct of products) {
-            printHtml += `<div class = "col-3" >
+            printHtml += `<div class = "col-3 my-4" >
                             <h5><strong>${returnName(objProduct.typeID, "typeLS")}</strong></h5>
 
                             <h4>${objProduct.name}</h4>
                             
                             <img src="${objProduct.image.src}" alt="${objProduct.image.alt}" class="img-fluid" />
+
+                            <h5><strong>Price: ${objProduct.price} EUR</h5><strong>
+
+                            <a href="#" class="add-to-cart btn btn-dark">Add to cart</a>
                         </div>`
 
         }
     }
-    console.log(printHtml);
     $("#productsBlock").html(printHtml);
 }
 
@@ -106,30 +111,52 @@ function returnName(id, nameLS) {
 function filtSort() {
     let roomsID = $('#ddlRooms').val();
     let typeID = $('#ddlType').val();
-    console.log("roomsID: " + roomsID);
-    console.log("typeID: " + typeID);
+    let sortType = $('#ddlSort').val();
 
     let arrayProducts = returnDataLS("productsLS");
 
     let filteredProducts = filter(arrayProducts, roomsID, typeID);
 
-    //sort(filteredProducts);
-    printProducts(filteredProducts);
+    let sortedProducts = sort(filteredProducts, sortType);
+
+    printProducts(sortedProducts);
 }
 
 function filter(products, roomID, typeID) {
-    let filteredProducts = [];
+    let filteredProductsByRoom = [];
+
     for (let product of products) {
-        if (product.roomID == roomID && product.typeID == typeID) {
-            filteredProducts.push(product);
+        if (product.roomID == roomID) {
+            filteredProductsByRoom.push(product);
         }
     }
 
-    return filteredProducts;
+    if (typeID == 0) {
+        return filteredProductsByRoom;
+    }
+
+    let filteredProductsByRoomAndType = [];
+    for (let product of filteredProductsByRoom) {
+        if (product.typeID == typeID) {
+            filteredProductsByRoomAndType.push(product);
+        }
+    }
+
+    return filteredProductsByRoomAndType;
 }
 
-function sort(products) {
+function sort(products, type) {
+    if (type == 0) {
+        return products;
+    }
 
+    if (type == 'price-asc') {
+        return products.sort(function (a, b) { return a.price - b.price; });
+    }
+
+    if (type == 'price-desc') {
+        return products.sort(function (a, b) { return b.price - a.price; });
+    }
 }
 
 
