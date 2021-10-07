@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "key": "Sofas"
+    },
+    {
+        "id": 2,
+        "key": "Armchairs"
+    },
+    {
+        "id": 3,
+        "key": "CoffeeTable"
+    },
+    {
+        "id": 4,
+        "key": "Beds"
+    },
+    {
+        "id": 5,
+        "key": "Bedside table"
+    },
+    {
+        "id": 6,
+        "key": "Wardrobes"
+    },
+    {
+        "id": 7,
+        "key": "Commodas"
+    },
+    {
+        "id": 8,
+        "key": "Dining tables"
+    },
+    {
+        "id": 9,
+        "key": "Chairs"
+    },
+    {
+        "id": 10,
+        "key": "Kitchen elements"
+    },
+    {
+        "id": 11,
+        "key": "Children's furniture"
+    }
+]
