@@ -49,5 +49,22 @@
     font-weight: 550;
     color: #1b1612;
 }
+.no-products{
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.price{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.cart{
+    font-size: 20px;
+    font-family: "my-font";
+}
+.sum{
+    font-size: 18px;
+   
+}
 
 
