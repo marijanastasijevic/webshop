@@ -11,6 +11,9 @@
 
     <!-- My css -->
     <link rel="stylesheet" href="assets/css/style.css">
+    
+    <!-- FOnt awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <title>Web Shop Hugo design</title>
 </head>
@@ -31,7 +34,7 @@
 
             <div class="col-4" id="ddlTypeBlock">
             </div>
-            <div class="col-4 sorting">
+            <div class="col-3 sorting">
                 <div class="form-group">
                     <label>Product sorting</label>
                     <select id="ddlSort" class="form-control">
@@ -40,6 +43,10 @@
                         <option value="price-desc">Price-descending</option>
                     </select>
                 </div>
+            </div>
+
+            <div class="col-1">
+                <a href="cart.html" class="cart"><i class="fas fa-cart-arrow-down"></i></i></a>
             </div>
         </div>
     </div>
@@ -54,7 +61,7 @@
     </div>
 
 
-
+    <!-- jquey ajax -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <!-- Bootstrap -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
